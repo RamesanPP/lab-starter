@@ -22,6 +22,7 @@ before:
 # A list of steps that take the learner through the course
 # Create one step for each action that a learner will complete
 
+
 steps:
 # Step 1: EDIT HERE - INTERNAL COMMENT DESCRIBING STEP 
 - title:  the title of the step, shown to the learner in the course progress page
