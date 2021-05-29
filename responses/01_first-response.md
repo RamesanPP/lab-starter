@@ -6,7 +6,7 @@ This is the paragraph to would describe the concept. It may link to other resour
 
 If there are concepts that should be described separately, they might belong in a subparagraph section like this one.
 
-## Step X: Description
+## Step 1: Description
 
 Here, we'll describe generally what the user is about to do.
 
